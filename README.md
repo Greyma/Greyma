@@ -85,6 +85,6 @@ I build production-grade AI systems — from retrieval-augmented generation pipe
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Greyma&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greyma&layout=compact&hide_border=true&count_private=true&theme=default" height="140"/>
+  <img src="https://streak-stats.demolab.com?user=Greyma&hide_border=true&theme=default" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greyma&layout=compact&hide_border=true&theme=default" height="140"/>
 </p>

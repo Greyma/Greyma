@@ -1,9 +1,10 @@
 # Ouahabi Benhenni — Greyma
 
-**AI Engineer & Product Builder**  
+**AI Engineer & Product Builder** · Founder @SMART ADN · AI Software Engineer & System Architect @Badis.ai  
 M2 Computer Science, UMBB Algeria · Boumerdès, DZ
 
 [![GitHub](https://img.shields.io/badge/GitHub-Greyma-181717?style=flat&logo=github)](https://github.com/Greyma)
+[![SMART ADN](https://img.shields.io/badge/SMART_ADN-smart--adn.vercel.app-0F6E56?style=flat)](https://smart-adn.vercel.app/)
 ![1st Place](https://img.shields.io/badge/🏆_1st_Place-Algeria--Tunisia_AI_Competition-FAEEDA?style=flat)
 
 ---
@@ -12,9 +13,11 @@ M2 Computer Science, UMBB Algeria · Boumerdès, DZ
 
 AI Software Engineer evolving into AI Product Builder — I don't just implement models, I design and ship complete intelligent systems that solve real problems.
 
-I lead the architecture and development of end-to-end AI-driven platforms: from raw data pipelines and model fine-tuning to cloud deployment and production integration. Co-founding **Badis.ai**, where I own the full AI stack — agentic RAG pipelines, vector retrieval, multimodal interfaces, and GCP infrastructure.
+I am the founder of **SMART ADN**, an end-to-end platform for genomic analysis and personalized therapeutic decision support — integrating deep learning, genomic foundation models, clinical ontologies, and molecular screening. The SNV pathogenicity classifier (AUC-ROC 0.987, PR-AUC 0.983) is one stage of this broader precision medicine pipeline.
 
-My research focuses on precision medicine: fine-tuning genomic foundation models (Nucleotide Transformer v2) on clinical variant data, achieving AUC-ROC 0.987 under strict out-of-distribution validation. I combine deep technical execution with product-oriented thinking — defining system architecture, aligning AI capabilities with real-world use cases, and building for scalability and impact.
+In parallel, I work as AI Software Engineer & System Architect at **Badis.ai**, where I own the AI stack: agentic RAG pipelines, vector retrieval, multimodal interfaces, and GCP infrastructure.
+
+I combine deep technical execution with product-oriented thinking — defining system architecture, aligning AI capabilities with real-world use cases, and building for scalability and impact.
 
 > I bridge the gap between advanced AI research and deployable products.
 
@@ -44,16 +47,23 @@ My research focuses on precision medicine: fine-tuning genomic foundation models
 
 ## Featured projects
 
-### 🔷 RAG-BADIS-AI
-> Production RAG system deployed on GCP — Vertex AI (Gemini 2.0 Flash), Qdrant on Cloud Run, LangGraph agentic pipeline, CohereRerank, RAGAS evaluation framework.  
-`LangGraph` · `Qdrant` · `Vertex AI` · `text-embedding-004` · `GCP`
+### 🧬 SMART ADN — Precision Medicine Platform
+> End-to-end platform for genomic analysis and personalized therapeutic decision support. Integrates deep learning, genomic foundation models, clinical ontologies, and molecular screening.  
+> **Founder** · [smart-adn.vercel.app](https://smart-adn.vercel.app/)  
+`Genomic Foundation Models` · `Clinical Ontologies` · `End-to-End AI` · `Precision Medicine`
 
 ---
 
-### 🧬 SNV Pathogenicity Predictor
+### 🔬 SNV Pathogenicity Classifier *(SMART ADN — Stage 1)*
 > Fine-tuned Nucleotide Transformer v2 (500M params) on 500K ClinVar variants.  
 > **AUC-ROC 0.987 · PR-AUC 0.983** — strict gene-split OOD validation (BRCA1, BRCA2, TP53, MLH1, MSH2, CFTR, TTN, NF1 held out).  
 `Transformers` · `ClinVar` · `NT-v2` · `OOD validation`
+
+---
+
+### 🔷 RAG-BADIS-AI
+> Production RAG system deployed on GCP — Vertex AI (Gemini 2.0 Flash), Qdrant on Cloud Run, LangGraph agentic pipeline, CohereRerank, RAGAS evaluation framework.  
+`LangGraph` · `Qdrant` · `Vertex AI` · `text-embedding-004` · `GCP`
 
 ---
 

@@ -1,6 +1,6 @@
 # Ouahabi Benhenni — Greyma
 
-**AI Engineer & Product Builder** · Co-founder @Badis.ai  
+**AI Engineer & Product Builder**  
 M2 Computer Science, UMBB Algeria · Boumerdès, DZ
 
 [![GitHub](https://img.shields.io/badge/GitHub-Greyma-181717?style=flat&logo=github)](https://github.com/Greyma)

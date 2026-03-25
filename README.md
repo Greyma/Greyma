@@ -118,8 +118,29 @@ I combine deep technical execution with product-oriented thinking — defining s
 
 ## Recognition
 
-- 🏆 **1st place** — National AI Competition (Algeria-Tunisia)
+### Leadership & Community
+- 🚀 **Lead** — Resumily
+- 🎓 **Lead** — GDSC Club (Google Developer Student Clubs)
+- 💻 **Head of Development** — DevUP
+
+### Hackathons
+- ⚡ **Lead Tech** — BSC Hackathon
+- ⚡ **Lead Tech** — Elit Hack
+- ⚖️ **Judge** — NASA Space Apps Hackathon
 - ⚖️ **Judge** — AI Track, FTC Club Hackathon
+- 🏆 **1st place** — National AI Competition (Algeria-Tunisia)
+
+### Conferences
+- 🎤 **Lead Tech** — ACEHC Conference
+
+### Bootcamps
+- 🧑‍🏫 **Principal Mentor** — AI Bootcamp · [bootcamp-i-a.vercel.app](https://bootcamp-i-a.vercel.app/)
+- 🧑‍🏫 **Principal Mentor** — Bootcamp 2026 · [bootcamp-2026.vercel.app](https://bootcamp-2026.vercel.app/)
+
+### Institutional
+- 🏛️ **Jury Member** — Institut INSFP Hamdi Ben Yahia · Diplôme TS Informatique · 2024
+- 🤝 **Official Collaboration** — Institut Pasteur d'Algérie
+- 🤝 **Official Collaboration** — CHU Mustapha Bacha Alger
 
 ---
 

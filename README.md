@@ -5,6 +5,7 @@ M2 Computer Science, UMBB Algeria · Boumerdès, DZ
 
 [![GitHub](https://img.shields.io/badge/GitHub-Greyma-181717?style=flat&logo=github)](https://github.com/Greyma)
 [![SMART ADN](https://img.shields.io/badge/SMART_ADN-smart--adn.vercel.app-0F6E56?style=flat)](https://smart-adn.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ouahabi_Benhenni-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ouahabi-benhenni)
 ![1st Place](https://img.shields.io/badge/🏆_1st_Place-Algeria--Tunisia_AI_Competition-FAEEDA?style=flat)
 
 ---
@@ -25,11 +26,20 @@ I combine deep technical execution with product-oriented thinking — defining s
 
 ## Tech stack
 
-**AI / ML**  
+**AI / ML & Computer Vision**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-111F68?style=flat)
+![Roboflow](https://img.shields.io/badge/Roboflow-7B2FBE?style=flat)
+
+**RAG & Agentic AI**  
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat)
 
 **Cloud & Infrastructure**  
@@ -38,10 +48,16 @@ I combine deep technical execution with product-oriented thinking — defining s
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
-**Web**  
+**Web & Backend**  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 ---
 
@@ -57,7 +73,19 @@ I combine deep technical execution with product-oriented thinking — defining s
 ### 🔬 SNV Pathogenicity Classifier *(SMART ADN — Stage 1)*
 > Fine-tuned Nucleotide Transformer v2 (500M params) on 500K ClinVar variants.  
 > **AUC-ROC 0.987 · PR-AUC 0.983** — strict gene-split OOD validation (BRCA1, BRCA2, TP53, MLH1, MSH2, CFTR, TTN, NF1 held out).  
-`Transformers` · `ClinVar` · `NT-v2` · `OOD validation`
+`NT-v2` · `ClinVar` · `Transformers` · `OOD validation`
+
+---
+
+### 🩺 Melanoma Early Detection
+> Deep learning classifier for early melanoma detection — **93% accuracy**. Ensemble strategy combining ResNext101, TinyViT, ResNet with stacking/bagging. Supervised by Pr. Djamel Gaceb (UMBB) & Dr. Hammadi Hakim (CHU Mustapha Bacha).  
+`CNN` · `Vision Transformers` · `Transfer Learning` · `TensorFlow` · `Keras`
+
+---
+
+### 🔬 Biomedical Lab AI Service
+> End-to-end AI service for a biomedical analysis laboratory: detection, classification, and counting of blood cells. YOLOv8 detects 7 cell types; U-Net/Do-UNet segmentation for red blood cell counting via CHT method.  
+`YOLOv8` · `U-Net` · `Do-UNet` · `PyTorch` · `Roboflow`
 
 ---
 

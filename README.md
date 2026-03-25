@@ -1,21 +1,22 @@
-<h1 align="center">Ouahabi Benhenni <sub>aka Greyma</sub></h1>
+# Ouahabi Benhenni — Greyma
 
-<p align="center">
-  <strong>AI Software Engineer &amp; System Architect</strong> · Co-founder @Badis.ai<br>
-  M2 Computer Science, UMBB Algeria · Boumerdès, DZ
-</p>
+**AI Engineer & Product Builder** · Co-founder @Badis.ai  
+M2 Computer Science, UMBB Algeria · Boumerdès, DZ
 
-<p align="center">
-  <a href="https://github.com/Greyma"><img src="https://img.shields.io/badge/GitHub-Greyma-181717?style=flat&logo=github" /></a>
-  <a href="mailto:ouahabi.benhenni@example.com"><img src="https://img.shields.io/badge/Email-contact-0078D4?style=flat&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/🏆_1st_Place-Algeria--Tunisia_AI_Competition-FAEEDA?style=flat" />
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-Greyma-181717?style=flat&logo=github)](https://github.com/Greyma)
+![1st Place](https://img.shields.io/badge/🏆_1st_Place-Algeria--Tunisia_AI_Competition-FAEEDA?style=flat)
 
 ---
 
 ## About
 
-I build production-grade AI systems — from retrieval-augmented generation pipelines and genomic deep learning to real-time multiplayer infrastructure. Currently co-founding **Badis.ai** and finishing my Master's research on SNV pathogenicity prediction with Transformer-based genomic models.
+AI Software Engineer evolving into AI Product Builder — I don't just implement models, I design and ship complete intelligent systems that solve real problems.
+
+I lead the architecture and development of end-to-end AI-driven platforms: from raw data pipelines and model fine-tuning to cloud deployment and production integration. Co-founding **Badis.ai**, where I own the full AI stack — agentic RAG pipelines, vector retrieval, multimodal interfaces, and GCP infrastructure.
+
+My research focuses on precision medicine: fine-tuning genomic foundation models (Nucleotide Transformer v2) on clinical variant data, achieving AUC-ROC 0.987 under strict out-of-distribution validation. I combine deep technical execution with product-oriented thinking — defining system architecture, aligning AI capabilities with real-world use cases, and building for scalability and impact.
+
+> I bridge the gap between advanced AI research and deployable products.
 
 ---
 
@@ -79,7 +80,7 @@ I build production-grade AI systems — from retrieval-augmented generation pipe
 
 ## Recognition
 
-- 🏆 **1st place** — National AI Competition (Algeria-Tunisia)  
+- 🏆 **1st place** — National AI Competition (Algeria-Tunisia)
 - ⚖️ **Judge** — AI Track, FTC Club Hackathon
 
 ---

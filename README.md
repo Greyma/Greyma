@@ -5,7 +5,7 @@ M2 Computer Science, UMBB Algeria · Boumerdès, DZ
 
 [![GitHub](https://img.shields.io/badge/GitHub-Greyma-181717?style=flat&logo=github)](https://github.com/Greyma)
 [![SMART ADN](https://img.shields.io/badge/SMART_ADN-smart--adn.vercel.app-0F6E56?style=flat)](https://smart-adn.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ouahabi_Benhenni-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ouahabi-benhenni)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ouahabi_Benhenni-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ouahabi-benhenni-a28bb5155/)
 ![1st Place](https://img.shields.io/badge/🏆_1st_Place-Algeria--Tunisia_AI_Competition-FAEEDA?style=flat)
 
 ---
